@@ -1,2 +1,2 @@
-console.log(123666);
+console.log(12);
 export default {};
